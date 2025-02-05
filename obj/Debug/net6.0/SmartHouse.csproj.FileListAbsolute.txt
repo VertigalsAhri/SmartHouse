@@ -1,0 +1,15 @@
+C:\Users\Hello Belmin\source\repos\SmartHouse\bin\Debug\net6.0\SmartHouse.exe
+C:\Users\Hello Belmin\source\repos\SmartHouse\bin\Debug\net6.0\SmartHouse.deps.json
+C:\Users\Hello Belmin\source\repos\SmartHouse\bin\Debug\net6.0\SmartHouse.runtimeconfig.json
+C:\Users\Hello Belmin\source\repos\SmartHouse\bin\Debug\net6.0\SmartHouse.dll
+C:\Users\Hello Belmin\source\repos\SmartHouse\bin\Debug\net6.0\SmartHouse.pdb
+C:\Users\Hello Belmin\source\repos\SmartHouse\obj\Debug\net6.0\SmartHouse.csproj.AssemblyReference.cache
+C:\Users\Hello Belmin\source\repos\SmartHouse\obj\Debug\net6.0\SmartHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hello Belmin\source\repos\SmartHouse\obj\Debug\net6.0\SmartHouse.AssemblyInfoInputs.cache
+C:\Users\Hello Belmin\source\repos\SmartHouse\obj\Debug\net6.0\SmartHouse.AssemblyInfo.cs
+C:\Users\Hello Belmin\source\repos\SmartHouse\obj\Debug\net6.0\SmartHouse.csproj.CoreCompileInputs.cache
+C:\Users\Hello Belmin\source\repos\SmartHouse\obj\Debug\net6.0\SmartHouse.dll
+C:\Users\Hello Belmin\source\repos\SmartHouse\obj\Debug\net6.0\refint\SmartHouse.dll
+C:\Users\Hello Belmin\source\repos\SmartHouse\obj\Debug\net6.0\SmartHouse.pdb
+C:\Users\Hello Belmin\source\repos\SmartHouse\obj\Debug\net6.0\SmartHouse.genruntimeconfig.cache
+C:\Users\Hello Belmin\source\repos\SmartHouse\obj\Debug\net6.0\ref\SmartHouse.dll
