@@ -12,3 +12,4 @@ C:\Users\Hello Belmin\source\repos\SmartHouse\SmartHouse\obj\Debug\net6.0\refint
 C:\Users\Hello Belmin\source\repos\SmartHouse\SmartHouse\obj\Debug\net6.0\SmartHouse.pdb
 C:\Users\Hello Belmin\source\repos\SmartHouse\SmartHouse\obj\Debug\net6.0\SmartHouse.genruntimeconfig.cache
 C:\Users\Hello Belmin\source\repos\SmartHouse\SmartHouse\obj\Debug\net6.0\ref\SmartHouse.dll
+C:\Users\Hello Belmin\source\repos\SmartHouse\SmartHouse\obj\Debug\net6.0\SmartHouse.sourcelink.json
